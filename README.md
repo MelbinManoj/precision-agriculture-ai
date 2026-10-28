@@ -194,6 +194,6 @@ python server.py          # open http://<raspberry-pi-ip>:5000
 
 ## 👤 Author
 
-**Melbin Manoj** — B.Tech, Electronics and Communication Engineering, CHRIST (Deemed to be University), Bangalore
+**Melbin Manoj** - B.Tech, Electronics and Communication Engineering, CHRIST (Deemed to be University), Bangalore
 
 [GitHub](https://github.com/MelbinManoj) · [LinkedIn](https://www.linkedin.com/in/melbin-manoj-8ba512269/)
