@@ -192,14 +192,8 @@ python server.py          # open http://<raspberry-pi-ip>:5000
 - **SDG 12: Responsible Consumption and Production.** Targeted treatment means fewer pesticides.
 - Low-power, on-device AI uses far less energy than cloud-based systems.
 
-## 👥 Team
+## 👤 Author
 
-B.Tech Major Project, Department of Electronics and Communication Engineering, **CHRIST (Deemed to be University), Bangalore**, 2025
+**Melbin Manoj** — B.Tech, Electronics and Communication Engineering, CHRIST (Deemed to be University), Bangalore
 
-- **Melbin Manoj** — [GitHub](https://github.com/MelbinManoj) · [LinkedIn](https://www.linkedin.com/in/melbin-manoj-8ba512269/)
-- Kevin K George
-- Eshmehar Singh
-
-**Guide:** Dr. Sujatha S
-
-Thanks to Dr. Umadevi V (BMS College of Engineering) for access to the thermal camera.
+[GitHub](https://github.com/MelbinManoj) · [LinkedIn](https://www.linkedin.com/in/melbin-manoj-8ba512269/)
